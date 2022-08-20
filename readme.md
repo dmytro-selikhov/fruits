@@ -1,3 +1,3 @@
-# [fruits layout](https://github.com/dmytro-selikhov/fruits)
+# [tasty-box-layout](https://github.com/dmytro-selikhov/tasty-box-layout)
 
-![fruits layout](desktop_1920x11631.png)
+![tasty-box-layout](desktop_1920x11631.png)
